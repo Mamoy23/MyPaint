@@ -1,0 +1,19 @@
+#canvas {
+    border: 1px solid #0000006e;
+    background-color: white;
+}
+body {
+    font-family: 'Sofia', cursive !important; 
+    background-color: rgb(85, 108, 116) !important; 
+}
+h1 {
+    color: whitesmoke !important;
+    font-size: 60px !important;
+}
+.btn {
+    padding: 7px !important;
+    color: rgb(85, 85, 85) !important;
+}
+#delete, #link {
+    color: white !important;
+}
